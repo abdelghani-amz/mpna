@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.m": "plaintext",
+        "csr.h": "c",
+        "stdio.h": "c",
+        "cblas.h": "c",
+        "random": "c",
+        "cstring": "c"
+    }
+}
